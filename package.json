@@ -1,0 +1,24 @@
+{
+  "name": "react-google-auth",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/gapi": "^0.0.47",
+    "@types/google.accounts": "^0.0.15",
+    "@types/react": "^18.3.12"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.4.0",
+    "jwt-decode": "^4.0.0",
+    "react": "^18.3.1",
+    "typed-redux-saga": "^1.5.0"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "description": ""
+}
