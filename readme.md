@@ -9,7 +9,6 @@ Based on this repo https://github.com/MomenSherif/react-oauth
 - Google authentication react, redux, redux-saga wrapper component
 - Redux saga implementation
 - Simplified types
--
 
 ## How to?
 
